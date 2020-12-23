@@ -1,3 +1,11 @@
+# Forks Intentions
+## Intentions
+
+* @STCGoal Adequate management of Machine Learning Models and their maturity states 2012231726
+
+
+----
+
 # Replicate
 
 Version control for machine learning.
